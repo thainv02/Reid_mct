@@ -1,0 +1,417 @@
+{
+    "points": [
+        {
+            "point_id": 1,
+            "map_px": [
+                657,
+                221
+            ],
+            "world_mm": [
+                -3831.8,
+                -3075.6
+            ],
+            "face_name": "Unknown",
+            "cameras": [
+                "cam3"
+            ]
+        },
+        {
+            "point_id": 2,
+            "map_px": [
+                751,
+                266
+            ],
+            "world_mm": [
+                -1594.6000000000001,
+                -2027.1000000000001
+            ],
+            "face_name": "Unknown",
+            "cameras": [
+                "cam3"
+            ]
+        },
+        {
+            "point_id": 3,
+            "map_px": [
+                550,
+                175
+            ],
+            "world_mm": [
+                -6378.400000000001,
+                -4147.400000000001
+            ],
+            "face_name": "Unknown",
+            "cameras": [
+                "cam3"
+            ]
+        },
+        {
+            "point_id": 4,
+            "map_px": [
+                648,
+                263
+            ],
+            "world_mm": [
+                -4046.0,
+                -2097.0
+            ],
+            "face_name": "Unknown",
+            "cameras": [
+                "cam3"
+            ]
+        },
+        {
+            "point_id": 5,
+            "map_px": [
+                888,
+                31
+            ],
+            "world_mm": [
+                1666.0,
+                -7502.6
+            ],
+            "face_name": "Unknown",
+            "cameras": [
+                "cam4"
+            ]
+        },
+        {
+            "point_id": 6,
+            "map_px": [
+                891,
+                88
+            ],
+            "world_mm": [
+                1737.4,
+                -6174.5
+            ],
+            "face_name": "Unknown",
+            "cameras": [
+                "cam4"
+            ]
+        },
+        {
+            "point_id": 7,
+            "map_px": [
+                816,
+                94
+            ],
+            "world_mm": [
+                -47.6,
+                -6034.7
+            ],
+            "face_name": "Unknown",
+            "cameras": [
+                "cam4"
+            ]
+        },
+        {
+            "point_id": 8,
+            "map_px": [
+                822,
+                137
+            ],
+            "world_mm": [
+                95.2,
+                -5032.8
+            ],
+            "face_name": "Unknown",
+            "cameras": [
+                "cam4"
+            ]
+        },
+        {
+            "point_id": 9,
+            "map_px": [
+                815,
+                257
+            ],
+            "world_mm": [
+                -71.4,
+                -2236.8
+            ],
+            "face_name": "Unknown",
+            "cameras": [
+                "cam4"
+            ]
+        },
+        {
+            "point_id": 11,
+            "map_px": [
+                894,
+                179
+            ],
+            "world_mm": [
+                1808.8,
+                -4054.2000000000003
+            ],
+            "face_name": "Unknown",
+            "cameras": [
+                "cam4"
+            ]
+        },
+        {
+            "point_id": 12,
+            "map_px": [
+                890,
+                136
+            ],
+            "world_mm": [
+                1713.6000000000001,
+                -5056.1
+            ],
+            "face_name": "Unknown",
+            "cameras": [
+                "cam4"
+            ]
+        },
+        {
+            "point_id": 23,
+            "map_px": [
+                814,
+                196
+            ],
+            "world_mm": [
+                -95.2,
+                -3658.1
+            ],
+            "face_name": "Unknown",
+            "cameras": [
+                "cam4"
+            ]
+        },
+        {
+            "point_id": 13,
+            "map_px": [
+                626,
+                406
+            ],
+            "world_mm": [
+                -4569.6,
+                1234.9
+            ],
+            "face_name": "Unknown",
+            "cameras": [
+                "cam2"
+            ]
+        },
+        {
+            "point_id": 14,
+            "map_px": [
+                627,
+                444
+            ],
+            "world_mm": [
+                -4545.8,
+                2120.3
+            ],
+            "face_name": "Unknown",
+            "cameras": [
+                "cam2"
+            ]
+        },
+        {
+            "point_id": 16,
+            "map_px": [
+                633,
+                501
+            ],
+            "world_mm": [
+                -4403.0,
+                3448.4
+            ],
+            "face_name": "Unknown",
+            "cameras": [
+                "cam2"
+            ]
+        },
+        {
+            "point_id": 25,
+            "map_px": [
+                952,
+                243
+            ],
+            "world_mm": [
+                3189.2000000000003,
+                -2563.0
+            ],
+            "face_name": "Unknown",
+            "cameras": [
+                "cam2"
+            ]
+        },
+        {
+            "point_id": 17,
+            "map_px": [
+                629,
+                255
+            ],
+            "world_mm": [
+                -4498.2,
+                -2283.4
+            ],
+            "face_name": "Unknown",
+            "cameras": [
+                "cam2"
+            ]
+        },
+        {
+            "point_id": 24,
+            "map_px": [
+                627,
+                472
+            ],
+            "world_mm": [
+                -4545.8,
+                2772.7000000000003
+            ],
+            "face_name": "Unknown",
+            "cameras": [
+                "cam2"
+            ]
+        },
+        {
+            "point_id": 19,
+            "map_px": [
+                746,
+                439
+            ],
+            "world_mm": [
+                -1713.6000000000001,
+                2003.8
+            ],
+            "face_name": "Unknown",
+            "cameras": [
+                "cam1"
+            ]
+        },
+        {
+            "point_id": 20,
+            "map_px": [
+                735,
+                407
+            ],
+            "world_mm": [
+                -1975.4,
+                1258.2
+            ],
+            "face_name": "Unknown",
+            "cameras": [
+                "cam1"
+            ]
+        },
+        {
+            "point_id": 22,
+            "map_px": [
+                768,
+                406
+            ],
+            "world_mm": [
+                -1190.0,
+                1234.9
+            ],
+            "face_name": "Unknown",
+            "cameras": [
+                "cam1"
+            ]
+        },
+        {
+            "point_id": 21,
+            "map_px": [
+                786,
+                426
+            ],
+            "world_mm": [
+                -761.6,
+                1700.9
+            ],
+            "face_name": "Unknown",
+            "cameras": [
+                "cam1"
+            ]
+        }
+    ],
+    "rois": {
+        "1": false,
+        "2": false,
+        "3": false,
+        "4": false,
+        "5": false,
+        "6": false,
+        "7": false,
+        "8": false,
+        "9": false,
+        "10": false,
+        "11": false,
+        "12": false,
+        "13": false,
+        "14": false,
+        "15": false,
+        "16": false,
+        "17": false,
+        "18": false,
+        "19": false,
+        "20": false,
+        "21": false,
+        "22": false,
+        "23": false,
+        "24": false,
+        "25": false,
+        "26": false,
+        "27": false,
+        "28": false,
+        "29": false,
+        "30": false,
+        "31": false,
+        "32": true,
+        "33": true,
+        "34": false,
+        "35": false,
+        "36": false,
+        "37": false,
+        "38": false,
+        "39": false,
+        "40": false,
+        "41": false,
+        "42": true,
+        "43": false,
+        "44": false,
+        "45": true,
+        "46": true,
+        "47": true,
+        "48": true,
+        "49": true,
+        "50": true,
+        "51": true,
+        "52": false,
+        "53": true,
+        "54": false,
+        "55": false,
+        "56": false,
+        "57": false,
+        "58": false,
+        "59": false,
+        "60": false,
+        "61": false,
+        "62": false,
+        "63": false,
+        "64": false,
+        "65": false,
+        "66": false,
+        "67": false,
+        "68": false,
+        "69": false,
+        "70": false,
+        "71": false,
+        "72": false,
+        "73": false,
+        "74": false,
+        "75": false,
+        "76": false,
+        "77": true,
+        "78": true,
+        "79": true,
+        "80": false
+    },
+    "timestamp": "2026-01-15T10:53:02.188823"
+}
