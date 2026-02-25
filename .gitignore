@@ -228,3 +228,6 @@ output.txt
 *.pt
 .vscode/
 .gemini/
+*.mp4
+API_Face/faces/
+API_Face/weights/
